@@ -14,5 +14,11 @@
 - [x] Conteo de Frijoles
 
 
+## Capítulo 4 - Estructura de datos: Objetos y Arrays
+
+- [x] La suma de un rango
+- [x] Revirtiendo un array
+- [x] Una lista
+- [ ] Comparación profunda
 
 
