@@ -19,6 +19,6 @@
 - [x] La suma de un rango
 - [x] Revirtiendo un array
 - [x] Una lista
-- [ ] Comparación profunda
+- [x] Comparación profunda
 
 
