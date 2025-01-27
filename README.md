@@ -22,3 +22,5 @@
 - [x] Comparación profunda
 
 
+## Capítulo 5 - Funciones de Orden Superior
+- 
