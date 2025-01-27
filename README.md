@@ -23,4 +23,8 @@
 
 
 ## Capítulo 5 - Funciones de Orden Superior
-- 
+- [x] Aplanamiento
+- [x] Tu propio ciclo
+- [x] Cada
+- [x] Dirección de escritura dominante
+
