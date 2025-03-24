@@ -28,3 +28,10 @@
 - [x] Cada
 - [x] Dirección de escritura dominante
 
+## Capítulo 6 - La vida secreta de los objetos
+- [x] Vectores
+- [x] Grupo
+- [x] Iterando Grupo
+
+
+
